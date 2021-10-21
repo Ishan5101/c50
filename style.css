@@ -1,0 +1,22 @@
+*{
+    background-color:#f5f77b;
+  }
+  h1{
+    color:red;
+  }
+.header{
+background-color: aqua;
+display:flex;
+justify-content: space-between;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
